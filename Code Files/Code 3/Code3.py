@@ -1,4 +1,4 @@
-num = 10
+num = 100
 if num % 2 == 0:
     print(num, "is even.")
 else:
